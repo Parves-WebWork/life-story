@@ -1,16 +1,4 @@
-To give you a head start building your new Laravel application,
-we are happy to offer authentication and application starter kits. 
-These kits automatically scaffold 
-your application with the routes, controllers, 
-and views you need to register and authenticate your application's users.
-
-Hello my name is parves
-
-And my a student
-
-My name Is Parves Mosharaf and 18year old
-l am 19years old
-
-l have started my full stack web  development job
-
-l will join php
+My name is Parves.
+My full name is Parves Mosharaf.
+I Love Messi.
+l am 19 years old.
