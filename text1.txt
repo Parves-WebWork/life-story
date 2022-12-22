@@ -3,5 +3,6 @@ My full name is Parves Mosharaf.
 I Love Messi.
 l am 19 years old.
 l am a web developer.
+logo alignment is centerd.
 
 
